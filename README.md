@@ -61,96 +61,92 @@
 
 ## 📒 주요 내용
 
-### ✔️ 간편 로그인 및 보호자-피보호자 매칭 구현
+### ✔️ 물품 판매자와의 채팅 구현
 
-#### - 회원가입 및 간편 로그인
-
-고령자분들의 손쉬운 사용을 위하여 간결한 회원가입 과정과 간편 로그인 기능을 구현하였습니다.
+중고 거래의 핵심인 에누리 과정을 위해 구매자는 판매자와 채팅을 시도할 수 있으며, 판매자는 해당 채팅방에서 즉시 가격을 수정할 수 있습니다.
 <div style="display: flex;">
-    <img src="https://github.com/user-attachments/assets/1a2c7631-34ab-45b5-b2b4-416048711994" alt="보호자회원가입" width="200px" />
-    <img src="https://github.com/user-attachments/assets/5ae933e5-e115-41db-ab55-dd9504f228be" alt="생체로그인" width="200px" />
+    <img src="https://github.com/user-attachments/assets/c7a55c92-86bd-457a-bd13-b2665ec9a139" alt="채팅1"/>
+    <hr/>
+    <img src="https://github.com/user-attachments/assets/30482f95-8a26-4af5-9096-c8d23a912b13" alt="채팅2"/>
+    <hr/>
+    <img src="https://github.com/user-attachments/assets/ddd6c82a-100b-4291-b647-99f55b545e29" alt="채팅3"/>
 </div>
 
-#### - 보호자-피보호자 매칭
+### ✔️ 마이페이지 구현
 
-보호자로 회원가입 시 피보호자와 매칭을 진행하게 되고 매칭된다면 대신 정보 입력, 이상징후 알림 받기 등의 서비스를 이용할 수 있습니다.
+사용자가 본인이 판매중인 물품을 볼 수 있는 마이페이지를 구현하였습니다.
+각 필터를 적용하고 순서 또한 정렬할 수 있습니다.
 <div style="display: flex;">
-    <img src="https://github.com/user-attachments/assets/f60ffecf-cbfd-4813-902b-b07d3a25c539" alt="보호자매칭화면" width="200px" />
-    <img src="https://github.com/user-attachments/assets/dc987764-f2d8-47b9-b159-4a7f68e2eba6" alt="피보호자매칭" width="200px" />
+    <img src="https://github.com/user-attachments/assets/942a0d80-b55c-446d-bbe7-fcbf24829759" alt="마이페이지1" />
+    <hr/>
+    본인이 등록한 물품의 정보 변경이 가능합니다.
+    <img src="https://github.com/user-attachments/assets/35f859dd-2eff-472e-89f2-f5001af58893" alt="마이페이지2" />
 </div>
 
-### ✔️ 카드 발급 및 소비 관련 기능
+### ✔️ 관리자 페이지 구현
 
-#### - 개인 및 가족 카드 발급
-
-어르신의 카드 사용을 손쉽게 하기 위해서 보호자가 가족카드를 발급할 수 있도록 하였습니다.
+사이트 운영자는 등록된 물품들, 문의 내역, 사용자들을 관리할 수 있습니다.
 <div style="display: flex;">
-    <img src="https://github.com/user-attachments/assets/c78ccee6-b53f-455e-9259-372364cd5f74" alt="개인카드발급" width="200px" />
-    <img src="https://github.com/user-attachments/assets/7f969343-a321-4294-a4dc-174e0e90f9a8" alt="가족카드신청" width="200px" />
+    <img src="https://github.com/user-attachments/assets/a244ac61-eac7-4344-852c-b92d13187ad5" alt="관리자페이지1" />
 </div>
 
-#### - 소비 내역, 소비 리포트 확인
+### ✔️ 실시간 알림 구현
 
-발급한 카드의 소비 내역과 소비 리포트를 확인할 수 있습니다.
+웹 사이트에서 실시간으로 알림을 보내줄 수 있습니다.
 <div style="display: flex;">
-    <img src="https://github.com/user-attachments/assets/950bc988-a3f5-4f88-90f6-6ee97f712bb8" alt="소비내역" width="200px" />
-    <img src="https://github.com/user-attachments/assets/09b9bf18-7c68-4da5-98e2-3a735eb8e436" alt="소비리포트" width="200px" />
+    <img src="https://github.com/user-attachments/assets/e376db0b-1ee9-4650-92df-9cdd52868263" alt="실시간알림1" />
 </div>
 
-#### - 소비 이상징후 알림
+### ✔️ 실시간 경매 구현
 
-보호자는 피보호자의 카드 사용 내역에서 이상 거래가 탐지된다면 알림을 받을 수 있습니다.
+누구나 실시간으로 진행되는 경매에 참여할 수 있습니다.
 <div style="display: flex;">
-    <img src="https://github.com/user-attachments/assets/02cc2744-1651-4e78-b9fe-f2f4d7841f53" alt="소비이상징후알림" width="200px" />
+    <img src="https://github.com/user-attachments/assets/85fd9872-e078-41c3-b899-f24f6b421211" alt="실시간경매1" />
+    <hr/>
+    <img src="https://github.com/user-attachments/assets/020b001c-9c74-4135-9ea5-63d8950f4606" alt="실시간경매2" />
 </div>
 
-### ✔️ 복지 서비스 예약 및 결제
+### ✔️ 메인화면
 
-#### - 복지 서비스 예약
-
-보호자는 피보호자의 복지 서비스를 대신 예약할 수 있습니다.
+조회수가 가장 높은 12개의 상품이 보여집니다.
 <div style="display: flex;">
-    <img src="https://github.com/user-attachments/assets/d00dd4c9-d862-4c6c-aebc-dd7ec7ba6032" alt="보호자예약" width="200px" />
-    <img src="https://github.com/user-attachments/assets/3e4d0cc3-48c4-48fd-8fb7-d39cda49c7bc" alt="보호자예약확인" width="200px" />
-    <img src="https://github.com/user-attachments/assets/bfd4fca7-9818-49ce-a776-f9e946d10259" alt="보호자예약취소" width="200px" />
+    <img src="https://github.com/user-attachments/assets/98e83310-6ee7-4639-8203-96ca18551b06" alt="메인화면1" />
 </div>
 
-### ✔️ 대화형 챗봇 '똑똑이'
+### ✔️ 중고 제품 상세 페이지
 
-똑똑이는 LLM과 TTS 모델을 사용하여 사용자와 대화를 통해 상호작용합니다. 똑똑이와 대화를 통하여 어르신들은 화면을 보지 않고 다양한 서비스를 이용할 수 있습니다.
-
-예를 들어 원하는 날짜와 시간을 알려준다면 똑똑이가 복지 서비스를 대신 예약해 줍니다.
+중고 제품에 대한 정보를 확인할 수 있으며, 수정 또한 가능합니다.
 <div style="display: flex;">
-    <img src="https://github.com/user-attachments/assets/00b38939-209b-44ba-9dc3-7088416e2336" alt="똑똑이일상대화" width="200px" />
-    <img src="https://github.com/user-attachments/assets/d65ec333-e8d9-4214-9d90-1dc6e6c997f9" alt="똑똑이복지로" width="200px" />
+    <img src="https://github.com/user-attachments/assets/7918b5dd-ffda-443f-bd99-f7573c28dc1f" alt="상세페이지1" />
+    <hr/>
+    <img src="https://github.com/user-attachments/assets/785de1a4-783b-4669-8633-a5b8d742a70d" alt="상세페이지2" />
 </div>
 
+### ✔️ 물품 등록
 
-
-
+중고 물품을 등록할 수 있습니다.
 <div style="display: flex;">
-    <img src="" alt="" width="200px" />
-    <img src="" alt="" width="200px" />
+    <img src="https://github.com/user-attachments/assets/d9a1dec3-2884-43a7-9e5a-1177fe7d4869" alt="상세페이지1" />
 </div>
-
-<br/>
-
-## 📲 서비스 이용
-
-<img src="https://github.com/user-attachments/assets/d43648a6-7f4f-494a-8b4e-cb8df00d594c" width="80%">
 
 <br/>
 
 ## 🗃️ 시스템 아키텍처
 
-<img src="https://github.com/user-attachments/assets/7c6cd372-0317-4fb6-afce-e92f3fcc8437" width="80%">
+![image](https://github.com/user-attachments/assets/93e61490-53f0-45a7-89c4-c0ca69c061a5)
+
+<br/>
+
+## 🗃️ ER 다이어그램
+
+![image](https://github.com/user-attachments/assets/55ebcd31-24f0-4632-885e-25571832008d)
 
 <br/>
 
 ## 🛠 기술 스택
 
 #### - Front-end
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> 
 
 #### - Back-end
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
