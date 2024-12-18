@@ -131,12 +131,6 @@
 
 <br/>
 
-## 🗃️ 시스템 아키텍처
-
-![image](https://github.com/user-attachments/assets/93e61490-53f0-45a7-89c4-c0ca69c061a5)
-
-<br/>
-
 ## 🗃️ ER 다이어그램
 
 ![image](https://github.com/user-attachments/assets/55ebcd31-24f0-4632-885e-25571832008d)
@@ -145,18 +139,4 @@
 
 ## 🛠 기술 스택
 
-#### - Front-end
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-#### - Back-end
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-<img src="https://img.shields.io/badge/ElasticSearch-E34F26?style=for-the-badge&logo=ElasticSearch&logoColor=white" alt="ElasticSearch">
-<img src="https://img.shields.io/badge/JWT-6DB33F?style=for-the-badge&logo=JWT&logoColor=white" alt="JWT">
-
-#### - DB/Cloud
-<img src="https://img.shields.io/badge/Oracle-4169E1?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-<img src="https://img.shields.io/badge/AmazonS3-1572B6?style=for-the-badge&logo=AmazonS3&logoColor=white" alt="AmazonS3">
-
-#### - Collaboration Tools
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+![image](https://github.com/user-attachments/assets/93e61490-53f0-45a7-89c4-c0ca69c061a5)
