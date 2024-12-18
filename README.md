@@ -151,9 +151,12 @@
 
 #### - Back-end
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/ElasticSearch-E34F26?style=for-the-badge&logo=ElasticSearch&logoColor=white" alt="ElasticSearch">
+<img src="https://img.shields.io/badge/JWT-6DB33F?style=for-the-badge&logo=JWT&logoColor=white" alt="JWT">
 
 #### - DB/Cloud
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Oracle-4169E1?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+<img src="https://img.shields.io/badge/AmazonS3-1572B6?style=for-the-badge&logo=AmazonS3&logoColor=white" alt="AmazonS3">
 
 #### - Collaboration Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
