@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/e6705014-e1c7-4909-b6cf-652cea89e878)
 
-#### 📙 발표자료 보러가기([Click](https://github.com/user-attachments/files/18176464/default.pdf))
+#### 📙 발표자료 보러가기([Click](https://github.com/user-attachments/files/18176464/희희낙찰 발표자료.pdf))
 
 <br/>
 
