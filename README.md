@@ -1,35 +1,39 @@
-# 🚪 똑똑: Knock-knock
+# 🚪 희희 낙찰
 
-신한DS SW 아카데미 2차 팀 프로젝트
+신한DS SW 아카데미 1차 팀 프로젝트
 
-**🥇 신한DS SW 아카데미 6회차 최종프로젝트 최우수상 수상작**
+![image](https://github.com/user-attachments/assets/e6705014-e1c7-4909-b6cf-652cea89e878)
 
-![슬라이드1](https://github.com/user-attachments/assets/fd35c88a-7cee-42ee-a329-854ccc2a60d9)
 
-#### 🎥 시연 영상 보러가기([Click](https://youtu.be/Yr2v2oFtGDk))
 #### 📙 발표자료 보러가기([Click](https://github.com/Knock-and-knock/backend/blob/main/docs/%5B2%EC%A1%B0%5D%EB%98%91%EB%98%91_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%88%98%EC%A0%95.pdf))
-#### 🖥️ 사이트 바로가기([Click](https://knock-knock-sh.site/))
 
 <br/>
 
 ## 💡 프로젝트 소개
 
-**고령자 및 사회 취약 계층을 위한 음성 기반 대화형 금융 및 복지 지원 플랫폼**
+**중고 거래 및 실시간 경매 플랫폼**
 
-- 우리 사회는 급속한 디지털화와 함께 다양한 계층 간 격차가 심화되고 있습니다. 이 과정에서 고령자, 장애인, 저소득층, 다문화 가정 등 금융 약자와 사회 취약 계층의 디지털 소외와 금융 접근성 문제가 심각해지고 있습니다. 은행 지점의 감소와 온라인 서비스의 확대로 인해 디지털에 익숙하지 않거나 접근이 어려운 이들의 금융 서비스 이용이 더욱 힘들어지고 있습니다. 
+- 불필요한 물건을 버리지 않고 다른 사람에게 필요한 자원으로 활용할 수 있도록 도울 수 있습니다. 이는 환경 보호와 자원 절약에도 기여하며, 이용자들이 편하게 거래를 진행할 수 있도록 해줍니다.
+- 한정판 제품, 골동품 등 희소성 있는 물품에 대한 수요를 만족시킬 수 있는 효과적인 거래 방식입니다. 또한, 경매는 시장에서 물건의 가치를 실시간으로 평가받을 수 있는 공정한 방법으로, 판매자는 더 높은 가격으로 판매를, 구매자는 예산 내에서 거래를 시도할 기회를 얻을 수 있습니다.
 
-- 금융 약자와 사회 취약 계층의 금융 접근성을 높이고 동시에 그들의 사회적 연결과 삶의 질을 향상 시킬 수 있는 서비스를 개발하고자 합니다. 음성 기반의 대화형 카드 서비스는 이용자들이 쉽게 금융 서비스를 이용할 수 있게 하며, 동시에 일상적인 대화를 통해 정서적 지원과 필요한 정보를 제공합니다. 
 
-<img src="https://github.com/user-attachments/assets/f12d86dc-8e16-45b9-8e30-29223de8ad4f" width="70%">
+<img src="https://github.com/user-attachments/assets/0d1c8ce4-16be-4ca7-a865-b3b3bcaa85ac" width="70%">
 
-<img src="https://github.com/user-attachments/assets/a2d5cf55-065c-43ac-a1bb-2bc51371fa95" width="70%">
+<img src="https://github.com/user-attachments/assets/58ae76a4-f071-4168-82c6-938ba3c4211e" width="70%">
 
 
 <br/>
 
-### ✔️ 서비스 구조도
+### ✔️ 서비스 흐름
 
-<img src="https://github.com/user-attachments/assets/653e6193-e58e-4f49-90e8-e53b80fd4f2e" width="70%">
+
+<img src="https://github.com/user-attachments/assets/58b47802-8f63-4102-a0f8-77a0dd44e632" width="70%">
+
+<img src="https://github.com/user-attachments/assets/49f9a914-18be-4a87-aabb-8a2ae515eb50" width="70%">
+
+<img src="https://github.com/user-attachments/assets/d9a87a2f-6827-4c35-b499-3dc6b7f42733" width="70%">
+
+<img src="https://github.com/user-attachments/assets/abaa9394-200b-4d26-bd05-18e457a38a05" width="70%">
 
 <br/>
 
@@ -37,47 +41,21 @@
 
 **개발기간: 2024.07.24 ~ 2024.09.11**
 
-<table>
-  <tr>
-<td align="center"><b>권대현</b></td>
-    <td align="center"><b>정민교</b></td>
-    <td align="center"><b>양승건</b></td>
-    <td align="center"><b>홍정민</b></td>
-    <td align="center"><b>이두리</b></td>
-    <td align="center"><b>손동희</b></td>
-    <td align="center"><b>정성진</b></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/DevHyun2"><img src="https://avatars.githubusercontent.com/DevHyun2" width="100px;" alt="">
-    <td align="center"><a href="https://github.com/MinkyoDev"><img src="https://avatars.githubusercontent.com/MinkyoDev" width="100px;" alt="">
-    <td align="center"><a href="https://github.com/YangxGeon"><img src="https://avatars.githubusercontent.com/YangxGeon" width="100px;" alt="">
-    <td align="center"><a href="https://github.com/wjdals898"><img src="https://avatars.githubusercontent.com/wjdals898" width="100px;" alt="">
-    <td align="center"><a href="https://github.com/lee21330"><img src="https://avatars.githubusercontent.com/lee21330" width="100px;" alt="">
-    <td align="center"><a href="https://github.com/Sondonghee123"><img src="https://avatars.githubusercontent.com/Sondonghee123" width="100px;" alt="">
-    <td align="center"><a href="https://github.com/cocopg"><img src="https://avatars.githubusercontent.com/cocopg" width="100px;" alt="">
-    </td>
-  </tr>
-</table>
-
 ### ✔️ 세부 역할 분담
 
-#### 🔹Backend
+- 공통: 웹 디자인 / DB 설계
 
-- 권대현: 복지 예약 / 카드 내역 / 이상 거래 탐지
+- 손동희: 메인화면 / 판매 상품 상세페이지 / 판매 물품 등록 및 수정
 
-- 정민교: PM / 똑똑이 / 대화방, 대화 내역 / CICD
+- 신정인: 실시간 채팅 / 약속잡기 및 취소 / 채팅방 내 결제
 
-- 양승건: 카드발급 / 알림 / 소비 리포트
+- 신현상: 실시간 경매 / 로그인 및 회원가입 / 엘라스틱 서치 / 결제 라이브러리 연동 / 공통 JS 및 모듈 개발 / GIT 협업 관리
 
-- 홍정민: 로그인 / 회원가입 / 매칭 / CICD
+- 이두리: 마이페이지 / QNA 및 FAQ 게시판
 
-#### 🔹Frontend
+- 최재명: 관리자 페이지
 
-- 이두리: 메인 / 소비 내역 / 알림 페이지 / 로그인 / 회원가입
-
-- 손동희: 복지 / 소비 리포트 / 생체 로그인
-
-- 정성진: 카드 발급 / 매칭 / 똑똑이 / 메인
+- 황수영: 실시간 알림 / 이용 정지된 유저 페이지
 
 <br/>
 
