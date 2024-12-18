@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/e6705014-e1c7-4909-b6cf-652cea89e878)
 
 
-#### 📙 발표자료 보러가기([Click](https://github.com/Knock-and-knock/backend/blob/main/docs/%5B2%EC%A1%B0%5D%EB%98%91%EB%98%91_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%88%98%EC%A0%95.pdf))
+#### 📙 발표자료 보러가기([Click](https://github.com/user-attachments/files/18175644/default.pdf))
 
 <br/>
 
