@@ -58,6 +58,16 @@
 
 <br/>
 
+## 🗃️ ER 다이어그램
+
+![image](https://github.com/user-attachments/assets/55ebcd31-24f0-4632-885e-25571832008d)
+
+<br/>
+
+## 🛠 기술 스택
+
+![image](https://github.com/user-attachments/assets/93e61490-53f0-45a7-89c4-c0ca69c061a5)
+
 ## 📒 주요 내용
 
 ### ✔️ 물품 판매자와의 채팅 구현
@@ -127,15 +137,3 @@
 <div style="display: flex;">
     <img src="https://github.com/user-attachments/assets/d9a1dec3-2884-43a7-9e5a-1177fe7d4869" alt="상세페이지1" />
 </div>
-
-<br/>
-
-## 🗃️ ER 다이어그램
-
-![image](https://github.com/user-attachments/assets/55ebcd31-24f0-4632-885e-25571832008d)
-
-<br/>
-
-## 🛠 기술 스택
-
-![image](https://github.com/user-attachments/assets/93e61490-53f0-45a7-89c4-c0ca69c061a5)
